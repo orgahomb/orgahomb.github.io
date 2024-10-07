@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orgahomb.github.io/sitemap.html.gz
+Sitemap: https://orgahomb.github.io/app/sitemap.html.gz
+Sitemap: https://orgahomb.github.io/assets/sitemap.html.gz
+Sitemap: https://orgahomb.github.io/css/sitemap.html.gz
+Sitemap: https://orgahomb.github.io/data/sitemap.html.gz
+Sitemap: https://orgahomb.github.io/includes/sitemap.html.gz
+Sitemap: https://orgahomb.github.io/item/sitemap.html.gz
+Sitemap: https://orgahomb.github.io/src/sitemap.html.gz
